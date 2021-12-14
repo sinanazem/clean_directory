@@ -1,9 +1,12 @@
-# clean_directory
+# Clean Directory 
 Cleans a directory by moving files to directories.
 
 <img src="https://cdn3.iconfinder.com/data/icons/business-693/96/Business_Business_folder_file_organizer-512.png"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px;" 
+     width=300
+     height=300
+     />
 
 ## How to Run
 
